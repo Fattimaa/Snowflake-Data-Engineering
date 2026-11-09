@@ -62,6 +62,22 @@ These topics will be documented as they are completed.
 - [Snowflake Documentation](https://docs.snowflake.com/)
 - [Snowflake Tutorials](https://docs.snowflake.com/learn-tutorials)
 
+
+## Snowflake Learning Tutorials
+
+### 01 — Snowflake Basics
+Introduction to Snowflake, virtual warehouses, tables, internal stages, CSV loading, and SQL queries.
+
+[View Tutorial 01](./01-Snowflake-Basics/)
+
+### 02 — Bulk Loading Local Files (CSV & JSON)
+Hands-on tutorial covering Snowflake CLI, named file formats, internal stages, CSV and JSON loading, COPY INTO, error validation, troubleshooting, and semi-structured data queries.
+
+**Results:** 26 CSV records and 3 JSON records successfully loaded.
+
+[View Tutorial 02](./02-Bulk-Loading-Local-Files/)
+
+
 ## Project Status
 
 **In Progress** — Snowflake Basics completed; additional exercises and projects planned.
